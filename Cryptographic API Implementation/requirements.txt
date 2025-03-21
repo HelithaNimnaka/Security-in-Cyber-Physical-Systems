@@ -1,0 +1,5 @@
+#conda create --name cyber python=3.9
+fastapi
+pycryptodome
+cryptography
+uvicorn
