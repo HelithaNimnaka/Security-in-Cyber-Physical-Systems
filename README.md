@@ -21,10 +21,10 @@ University of Moratuwa, Department of Electronic and Telecommunication Engineeri
 
 ### Milestone 2: Cryptographic API Implementation 🔑💻
 [Developed a secure Cryptographic API for encryption, decryption, and hashing.](Cryptographic-API-Implementation)
-Implemented features:
-- RSA and AES key generation 🔑
-- RSA encryption/decryption (with OAEP padding) 🔒
-- Hashing (SHA-256, SHA-512) for integrity checks ✅
+- Implemented features:
+  - RSA and AES key generation 🔑
+  - RSA encryption/decryption (with OAEP padding) 🔒
+  - Hashing (SHA-256, SHA-512) for integrity checks ✅
 
 - Security enhancements:
   - Secure key management and storage 💼
