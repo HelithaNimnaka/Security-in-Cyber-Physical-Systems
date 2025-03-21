@@ -7,7 +7,7 @@ git clone https://github.com/HelithaNimnaka/Security-in-Cyber-Physical-Systems.g
 
 ### 📂 Navigate to the Project Directory
 ```sh
-cd Security-in-Cyber-Physical-Systems
+cd "Security-in-Cyber-Physical-Systems/Cryptographic API Implementation"
 ```
 
 ###📦 Install Dependencies
