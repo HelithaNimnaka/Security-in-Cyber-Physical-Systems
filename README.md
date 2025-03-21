@@ -5,7 +5,7 @@ University of Moratuwa, Department of Electronic and Telecommunication Engineeri
 ---
 
 ### Milestone 1 Securing a Smart Building System 🏢🔐
-- Analyzed cybersecurity vulnerabilities in Honeywell smart building systems.  
+[Analyzed cybersecurity vulnerabilities in Honeywell smart building systems.](Milestone_1.pdf)
 - Identified threats:
   - Weak encryption & poor key management 🔓
   - Weak password policies & improper access controls 🚫
@@ -20,7 +20,7 @@ University of Moratuwa, Department of Electronic and Telecommunication Engineeri
 ---
 
 ### Milestone 2: Cryptographic API Implementation 🔑💻
-Developed a secure Cryptographic API for encryption, decryption, and hashing.  
+[Developed a secure Cryptographic API for encryption, decryption, and hashing.](Cryptographic-API-Implementation)
 Implemented features:
 - RSA and AES key generation 🔑
 - RSA encryption/decryption (with OAEP padding) 🔒
