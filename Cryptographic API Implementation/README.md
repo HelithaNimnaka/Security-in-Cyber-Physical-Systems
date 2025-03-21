@@ -1,26 +1,26 @@
-# 🚀 Cryptographic API Implementation
+## 🚀 Cryptographic API Implementation
 
-## 📌 Clone the Project
+### 📌 Clone the Project
 ```sh
 git clone https://github.com/HelithaNimnaka/Security-in-Cyber-Physical-Systems.git
 ```
 
-## 📂 Navigate to the Project Directory
+### 📂 Navigate to the Project Directory
 ```sh
 cd Security-in-Cyber-Physical-Systems
 ```
 
-## 📦 Install Dependencies
+###📦 Install Dependencies
 ```sh
 pip install -r requirements.txt
 ```
 
-## 🏃 Run the Application
+### 🏃 Run the Application
 ```sh
 python main.py
 ```
 
-## 🔎 Swagger UI for API Testing
+### 🔎 Swagger UI for API Testing
 Access the interactive API documentation at:
 ```sh
 http://localhost:8000/docs
@@ -28,7 +28,7 @@ http://localhost:8000/docs
 
 ---
 
-## 📌 Available API Endpoints
+### 📌 Available API Endpoints
 | 🏷️ **Endpoint**  | 🔄 **Method** | 📖 **Description** |
 |------------------|-------------|--------------------|
 | 🌍 `/` | `GET` | Returns a welcome message and API instructions. |
@@ -43,7 +43,7 @@ http://localhost:8000/docs
 
 ---
 
-## 📄 Project Documentation
+### 📄 Project Documentation
 📌 [Overleaf Documentation](https://www.overleaf.com/read/fchvyqjqszkn#3cb43f)
 
 ---
