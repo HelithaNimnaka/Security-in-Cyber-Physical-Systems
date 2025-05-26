@@ -33,9 +33,29 @@ University of Moratuwa, Department of Electronic and Telecommunication Engineeri
 
 ---
 
-
   ### Tech Stack:
   - FastAPI & Swagger UI🐍
   - Postman (API Testing & Validation) 🧪
   - OpenSSL (Cryptographic Operations) 🛠️
   - Python Libraries: PyCryptodome, Cryptography 📚
+
+---
+
+### Milestone 3: Identify Vulnerabilities in Existing Smart Home System 🏠⚠️
+[Performed a comprehensive security analysis of APIs in a real-world smart home ecosystem.](Milestone_3.pdf)
+
+- Found issues:
+  - Unencrypted (HTTP) communication 📡
+  - Weak/missing authentication & access control 🚫
+  - Poor input validation (injection risks) 🦠
+  - No brute-force protection or rate limiting 🛑
+  - Use of default credentials & predictable IDs 🔢
+  - Insecure firmware update process 🪛
+
+- Recommendations:
+  - Use HTTPS everywhere 🔒
+  - Strong authentication & authorization (JWT, MFA) ✅
+  - Enforce input validation and password policies 🛡️
+  - Add rate limiting & anti-bot protections 🧱
+  - Secure firmware updates (signing, validation) 🔏
+  - Monitor and log all activities 📊
